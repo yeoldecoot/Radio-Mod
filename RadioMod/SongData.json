@@ -1,0 +1,58 @@
+{
+	{ 
+		"Name":"88.9 PACIFIC DREAMS",
+		"Songs":["Isometric Air", "Real Window",    "Practical Heart", "Antagonistic",  "Simple Pleasures", "Chodze", "Midnight Eye", "Blurred", "The Other Room", "La Stessa Causa", "Retrogenesis", "Miami Suicide", "Slippery Stabs", "Ashes And Diamonds", "Ice Maddox", "Lithium", "Slag"] 
+		"Ids":[  "253367813.wem", "1005242856.wem", "910852846.wem",   "190841656.wem", "82962273.wem",     "]
+	}
+	{
+		"Name":"89.3 RADIO VEXELSTROM"
+		"Songs":["Resist And Disorder", "Kill The Messenger", "Makes Me Feel Better", "Dead Pilot",    "Come Close",    "Black Terminal Vox Upgrade", "Reaktion", "With Her", "Never Stop Me", "Violence", "Pain", "Night City Alien", "The Hunt", "Cyber Tabla"]
+		"Ids":[  "308480891.wem",       "525137074.wem",      "174026915.wem",        "409198739.wem", "303931745.wem", "]
+	}
+	{
+		"Name":"91.9 ROYAL BLUE RADIO"
+		"Songs":["Black Satin", "Bitches Brew", "Ascenseur", "Impressions", "Solo Dancer", "Laura", "You Don't Know What Love Is", "Round Midnight", "Dark Prince"]
+		"Ids":[]
+	}
+	{
+		"Name":"92.9 NIGHT FM"
+		"Songs":["Dirty Roses",   "Worlds",        "X", "Maniak", "Be Machine", "Like A Miracle", "Run", "Glitched Revelation", "Yellow Box", "KillKill", "FlyingHead", "Volcano The Sailor", "Brain Damaged"]
+		"Ids":[  "664992914.wem", "188143271.wem", "]
+	}
+	{
+		"Name":"95.2 SAMIZDAT RADIO"
+		"Songs":["Piling In My Head", "Delirium 2", "Harm Sweaty Pit", "Lullaby", "Suprise Me"]
+		"Ids":[  "185138126.wem",     "]
+	}
+	{
+		"Name":"96.1 RITUAL FM"
+		"Songs":["Finis", "The Accursed", "March 30", "Acid Breather", "Witches", "The Loop", "Scum", "Fueled By Poison", "Kevin", "Future Drugs", "Zurawie", "Abandoned Land", "Black Concrete", "I Won't Let You Go"]
+		"Ids":[]
+	}
+	{
+		"Name":"98.7 BODY HEAT RADIO"
+		"Songs":["CirCus Minimus", "Major Crimes", "Night City", "Your House", "Hole In Sun", "History", "Ponpon Shit", "User Friendly", "Off The Leash", "Here's A Thought"]
+		"Ids":[]
+	}
+	{
+		"Name":"101.9 THE DIRGE"
+		"Songs":["God Machines", "Blouses Blue", "Problem KIds", "Bigger Man", "Go Blaze", "Dishonor", "Frost", "High School Bully", "NBOM", "Suicide", "Day Of Dead", "Bruzez", "Clip Boss", "Pluck U", "Hello Good Morning", "Run The Block", "Gr4ves", "WarningShots", "Metamorphosis", "No Save Point", "Flacko Loco"]
+		"Ids":[]
+	}
+	{
+		"Name":"103.5 RADIO PEBKAC"
+		"Songs":["Bios", "Drained", "Subvert", "Follow The White Crow", "Fake Spook", "Move Dat", "la Canopee", "Break", "Across The Floor", "GridFlow", "Undertow Velocity", "Vascular", "On My Way To Hell"]
+		"Ids":[]
+	}
+	{
+		"Name":"106.9 30 PRINCIPALES"
+		"Songs":["Bamo", "Dagga", "Dinero", "Serpant", "Barrio", "Tatted", "Hood", "Muevelo Cumbia", "Muerto Thrash", "Only Son", "WestCoast"]
+		"Ids":[]
+	}
+	{
+		"Name":"107.3 MORROW ROCK RADIO"
+		"Songs":["Suffer Me", "Heave Ho", "I Will Follow", "Who's Ready For Tomorrow", "LikeWise", "FNFF", "Trauma", "Sustain_Decay", "Never Fade Away", "Black Dog", "Chippin In", "The Ballad"]
+		"Ids":[]
+	}
+	
+}

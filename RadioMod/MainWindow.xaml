@@ -1,0 +1,31 @@
+﻿<Window x:Class="RadioMod.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RadioMod"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+
+	<Grid Name="grid" Margin="0,0,-8,-4">
+		<ListBox Name="RadioStations" SelectionChanged="ChangeStation" SelectionMode="Single" Margin="10,10,500,10">
+			<ListBoxItem>88.9 PACIFIC DREAMS</ListBoxItem>
+			<ListBoxItem>89.3 RADIO VEXELSTROM</ListBoxItem>
+			<ListBoxItem>91.9 ROYAL BLUE RADIO</ListBoxItem>
+			<ListBoxItem>92.9 NIGHT FM</ListBoxItem>
+			<ListBoxItem>95.2 SAMIZDAT RADIO</ListBoxItem>
+			<ListBoxItem>96.1 RITUAL FM</ListBoxItem>
+			<ListBoxItem>98.7 BODY HEAT RADIO</ListBoxItem>
+			<ListBoxItem>101.9 THE DIRGE</ListBoxItem>
+			<ListBoxItem>103.5 RADIO PEBKAC</ListBoxItem>
+			<ListBoxItem>106.9 30 PRINCIPALES</ListBoxItem>
+			<ListBoxItem>107.3 MORROW ROCK RADIO</ListBoxItem>
+		</ListBox>
+
+		<ListBox Name="Songs" SelectionChanged="SelectSong" SelectionMode="Single" Margin="305,10,205,10">
+		</ListBox>
+
+		<Button Grid.Column="0" Margin="0,356,10,10" Width="190" HorizontalAlignment="Right" Click="Replace">Replace</Button>
+	</Grid>
+
+</Window>

@@ -1,0 +1,15 @@
+C:\Users\troho\source\repos\RadioMod\obj\Debug\RadioMod.csprojAssemblyReference.cache
+C:\Users\troho\source\repos\RadioMod\obj\Debug\MainWindow.g.cs
+C:\Users\troho\source\repos\RadioMod\obj\Debug\App.g.cs
+C:\Users\troho\source\repos\RadioMod\obj\Debug\RadioMod_MarkupCompile.cache
+C:\Users\troho\source\repos\RadioMod\obj\Debug\RadioMod_MarkupCompile.lref
+C:\Users\troho\source\repos\RadioMod\bin\Debug\RadioMod.exe.config
+C:\Users\troho\source\repos\RadioMod\bin\Debug\RadioMod.exe
+C:\Users\troho\source\repos\RadioMod\bin\Debug\RadioMod.pdb
+C:\Users\troho\source\repos\RadioMod\obj\Debug\MainWindow.baml
+C:\Users\troho\source\repos\RadioMod\obj\Debug\RadioMod.g.resources
+C:\Users\troho\source\repos\RadioMod\obj\Debug\RadioMod.Properties.Resources.resources
+C:\Users\troho\source\repos\RadioMod\obj\Debug\RadioMod.csproj.GenerateResource.cache
+C:\Users\troho\source\repos\RadioMod\obj\Debug\RadioMod.csproj.CoreCompileInputs.cache
+C:\Users\troho\source\repos\RadioMod\obj\Debug\RadioMod.exe
+C:\Users\troho\source\repos\RadioMod\obj\Debug\RadioMod.pdb
